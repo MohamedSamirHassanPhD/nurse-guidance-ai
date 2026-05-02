@@ -2,7 +2,7 @@
 
 let fuse;
 let knowledgeData = [];
-const DEFAULT_GEMINI_KEY = 'AIzaSyC8m6bkIR-8dmYeP_nmx3-8PBbzG8cSXnA';
+const DEFAULT_GEMINI_KEY = 'AIzaSyCuVpv7k7252owZylpqKXWkTX3HKaBZ144';
 let aiProvider = localStorage.getItem('ai_provider') || 'gemini';
 let hfToken = localStorage.getItem('hf_token') || '';
 let geminiKey = localStorage.getItem('gemini_key') || DEFAULT_GEMINI_KEY;
