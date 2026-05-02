@@ -1,0 +1,95 @@
+Impact of AI  Decision Support on Nurses’ Clinical Performance in Postpartum Haemorrhage Management: A Randomized Controlled Trial
+
+Asmaa Anwar Abd elglil  (1), Mohamed Ezzelregal Abdelgawad (2), Elsayed Mahmoud Sabek(3), Mohamed Samir Hassan (4), Elham Gomaa Ramadan Elgamal(5).
+
+(1) Assistant Professor of Obstetrics and Gynecological Health Nursing, Faculty of Nursing, Kafrelsheikh University, Egypt.
+(2) Medical Surgical Nursing Department, College of Nursing, Jouf University, Sakaka, Saudi Arabia. critical care and emergency nursing Department, Faculty of nursing, Alexandria University,Alexandria, Egypt
+ (3) Faculty of Nursing, Al-Baha University, Al-Baha, Saudi Arabia
+Critical Care and Emergency Nursing, Faculty of Nursing, Beni-Suef University, Beni-Suef, Egyp. 
+(4) MSc Information and Technology, Faculty of Computers and Artificial Intelligence, Helwan University, Egypt
+(5) Lecturer of Obstetrics and Gynecological Nursing, Faculty of Nursing, Damanhour University, Egypt
+Nursing department, college of pharmacy, Nursing and Medical sciences, Riyadh Elm University, Riyadh, Saudi Arabia
+
+
+
+Introduction
+Postpartum haemorrhage (PPH) remains one of the leading causes of maternal morbidity and mortality worldwide, particularly in low- and middle-income countries. It is responsible for approximately one-quarter of all maternal deaths globally, with the majority of these deaths considered preventable through timely recognition and effective clinical management. The complexity and rapid progression of PPH require nurses—especially those working in obstetric intensive care units (ICUs)—to make fast, accurate, and evidence-based clinical decisions under high-pressure conditions World Health Organization,(2023).
+Nurses play a pivotal role in the early identification, monitoring, and management of PPH. However, increasing patient acuity, expanding clinical knowledge, and the growing volume of healthcare data have created significant challenges in accessing and applying up-to-date evidence at the point of care. Traditional clinical decision-making often relies on experience and static guidelines, which may not always reflect the latest evidence or patient-specific nuances. This gap highlights the urgent need for advanced decision support systems that can enhance clinical performance and improve patient outcomes (Main, E. K etal., 2025).
+Artificial intelligence (AI) has emerged as a transformative tool in healthcare, offering new opportunities to support clinical decision-making, improve patient safety, and optimize workflow efficiency. Among these technologies, clinical decision support systems (CDSS) powered by large language models (LLMs) have shown promise in synthesizing complex medical data and providing actionable recommendations. However, conventional AI models are limited by issues such as outdated knowledge and the risk of generating inaccurate or “hallucinated” information, which can compromise patient safety Topol, E. (2019). 
+To address these limitations, Retrieval-Augmented Generation (RAG) has been introduced as an advanced AI architecture that combines information retrieval with natural language generation. In RAG systems, relevant information is first retrieved from trusted external knowledge sources—such as clinical guidelines, research articles, or institutional protocols—and then used to generate contextually accurate and evidence-based responses. This approach improves factual accuracy, enhances transparency, and ensures that recommendations are grounded in verifiable clinical evidence, making it particularly suitable for high-stakes environments such as obstetric critical care Shortliffe, E. H., & Sepúlveda, M. J. (2018). 
+In nursing practice, RAG-based systems have demonstrated the potential to provide timely, accurate, and evidence-based answers to clinical queries, thereby supporting decision-making and reducing cognitive workload. Recent developments in nursing-focused RAG frameworks indicate significant improvements in the reliability and clinical relevance of AI-generated recommendations compared to traditional models. Moreover, these systems can integrate diverse data sources—including electronic health records (EHRs), clinical guidelines, and real-time patient data—to deliver personalized and context-aware decision support Lewis, et al ( 2020) . 
+Despite these promising advancements, the integration of RAG-based AI decision support systems into clinical practice remains in its early stages. There is a limited body of high-quality experimental research—particularly randomized controlled trials—evaluating their impact on nurses’ clinical performance and patient outcomes in critical care settings. In addition, ethical considerations such as data privacy, transparency, and accountability must be addressed to ensure safe and responsible implementation in nursing practice Zakka, C., Chaurasia, A., Shad, R., & Dalal, A. (2023). 
+Therefore, this study aims to evaluate the impact of a Retrieval-Augmented Generation (RAG)-based artificial intelligence decision support system on nurses’ clinical performance in the management of postpartum haemorrhage in the obstetric intensive care unit. By conducting a randomized controlled trial, this research seeks to provide robust evidence on the effectiveness of RAG-based systems in enhancing clinical decision-making, improving adherence to evidence-based practices, and ultimately contributing to better maternal outcomes.
+Aim of the study:
+
+	The current study aimed to evaluate the impact of a Retrieval-Augmented Generation (RAG)-based artificial intelligence decision support system on nurses’ clinical performance in the management of postpartum haemorrhage in the obstetric intensive care unit
+Research Hypotheses
+H1: Nurses using the RAG-based AI system will demonstrate significantly higher clinical performance scores than those receiving routine care.
+H2: Nurses using the RAG-based AI system will show improved adherence to post-partum haemorrhage management protocols.
+Operational Definitions
+	•	RAG-Based AI System: Retrieval-Augmented Generation (RAG) is an approach that integrates external knowledge retrieval into language model outputs to improve accuracy and relevance. RAG enhances Large Language Models (LLMs) by retrieving relevant external knowledge, thereby strengthening the performance of Generative AI (GenAI) applications.
+
+
+Subjects and Method 
+Research design
+ A quasi-experimental research design was utilized to examine the impact of a Retrieval-Augmented Generation (RAG)-Based Artificial Intelligence Decision Support System on Nurses' Clinical Performance in Postpartum Haemorrhage Management in the Obstetric Intensive Care Unit.
+Setting
+The study was conducted at the intensive care Unit of Kafr Elsheikh General hospital, located in Kafr Elsheikh Governorate, Egypt. This institute is considered one of the major governmental healthcare facilities that provides comprehensive maternal and neonatal health services for women from Kafr- elsheikh city and surrounding rural areas. The intensive care unit offers continuous monitoring of high-risk pregnancies as well as emergency obstetric management. 
+Tools of data collection:
+Tool I: Socio- demographic Structured Interview Questionnaire
+This tool was developed by the researcher after reviewing relevant literature to obtain data related to the participants’ socio-demographic characteristics as Age, gender, experience, education level
+Tool II: Post partum haemorrhage Knowledge Questionnaire
+This tool was developed by the researchers after reviewing relevant literature to assess data related to the participants` knowledge about Post partum haemorrhage. This tool includes 25 questions covering definition, types, causes, risk factors, diagnosis, prevention, treatment and nursing care of post-partum haemorrhage. Each correct answer scored as one point, while wrong answer or don`t know answer scored as zero. The total score calculated into percentage and categorized as follows: <60% (poor knowledge), 60%–<80% (fair knowledge), ≥80% (good knowledge)
+
+
+Tool III: Clinical Performance observational Checklist
+This tool was established by the investigators following a review of literature. (………….). It was used to assess nurses' general practices toward post-partum haemorrhage in obstetric intensive care unit and it covered 6 basic dimensions as assessment, diagnosis, intervention, monitoring, advanced collaborative care and documentation. It was completed by the researcher. Each step rated during clinical practice and marked as done correct and complete  (2), done incorrectly, incomplete (1), not done (0). The total score was calculated and categorized as competent (≥80%), satisfactory (60–79%), and unsatisfactory (<60%).
+Tool IV: Nurses’ Usability and Acceptance of RAG-Based AI Decision Support System
+This tool was developed by researchers to assess nurses` usability and acceptance of RAG-Based AI Decision Support System. It consists of 20statement covering four domains: ease of use, perceived usefulness, trust and reliability, and user satisfaction. Each item is rated on a 5-point Likert scale ranging from 0 to 4 (1 = strongly disagree) (5 = strongly agree). The total score ranged from 20 to 100, the higher scores indicating greater perceived usability and acceptance. The total score was interpreted as high usability (≥80%), moderate usability (60–79%), and low usability (<60%). 
+Tool validity 
+The content validity of the tool was tested and confirmed by three scholastic nursing specialists in the field of woman’s health and midwifery nursing. The tools were validated for clarity, relevance, and completeness of its contents. Accordingly, the recommended modifications will be performed.
+Tool reliability 
+The reliability of the instruments will be used for the study will be tested using Cronbach’s alpha coefficient test. 
+Pilot study
+A pilot study will be conducted to test the reliability and validity of the study tools and the clarity of the questions and to estimate the time needed to complete the instruments. 
+Ethical consideration
+
+Post-cesarean section mothers will be informed about the aim, procedure, benefits, and nature of the study. After that an informed written consent will be obtained from those who will be accepted to participate in the study. The researchers will be emphasized that participation in the study was voluntary and women had the right to withdraw from the study at any time without having to offer a justification. The anonymity and confidentiality issues will be assured and collected data will be only used for the research purpose.  
+Procedure
+Phase 1: Preparatory Phase
+After obtaining official permissions from the hospital administration and the Obstetric ICU and secure ethical approval from the institutional research ethics committee. The researchers will develop of the RAG-Based AI System using evidence-based clinical guidelines on postpartum haemorrhage as well as WHO protocols and institutional policies. RAG-Based AI system Integrate trusted knowledge sources into the system database. Researchers will ensure system validation for accuracy, reliability, and clinical safety. This phase will include researcher training in the use of RAG-Based AI system.
+ Selection of Participants 
+Recruit eligible nurses working in the ICU according to inclusion criteria. Nurses will be assigned randomly into two groups: 
+	•	Intervention Group: Uses RAG-based AI system 
+	•	Control Group: Receives routine care
+Phase 2: Implementation Phase
+Intervention group will be arranged in to groups each group will contain 5 nurses. Each group will take 2 sessions / week for 2 consecutive weeks. The researchers will attend to the ICU in the morning shift teaching sessions for nurses. Each session for 45-60 minutes as the following:
+The first session: 
+It covered objectives of sessions about aim of the study and introduction about Post partum haemorrhage, definition of PPH, introduction about WHO guidelines for prevention and management of PPH
+
+The second session: 
+It will focus on early diagnosis of PPH through early identification of signs and symptoms, early detection of risk factors. Management of PPH at ICU setting as well as emergency nursing intervention and priority intervention of PPH
+The third session: 
+ It will focus on introduction about RAG-based AI system including its benefits and how to navigate the system through asking questions and introducing clinical scenarios.  
+The forth session: 
+This session will focus mainly on application of trained nurses through introducing clinical scenarios to ensure accuracy and competent application of the system 
+Phase 3: Evaluation Phase
+During this phase, the impact of RAG-based AI system will be assessed through immediate evaluation included immediate post-test implementation for all nurses Following a month of system implementation, nurses will be given the opportunity to use all of the research items to assess their level of performance regarding PPH
+Nurses satisfaction will be assessed after using the system
+
+Statistical analysis
+
+        The Collected data will be coded, categorized, and entered into a computer. Statistical software for social science version 20.0 will be used for all statistical studies (SPSS, Chicago, IL). Statistics will be used for both descriptive and inferential data analysis. Continuous data will be reported as mean standard deviation and had a normally distributed distribution (SD). Numbers and percentages will be used to express categorical data. 
+
+References
+
+World Health Organization. (2023). Postpartum haemorrhage. Retrieved from https://www.who.int/news-room/fact-sheets/detail/postpartum-haemorrhage
+Kassebaum, N. J., Bertozzi-Villa, A., Coggeshall, M. S., Shackelford, K. A., Steiner, C., Heuton, K. R., … Murray, C. J. L. (2014). Global, regional, and national levels and causes of maternal mortality during 1990–2013: A systematic analysis. The Lancet, 384(9947), 980–1004. https://doi.org/10.1016/S0140-6736(14)60696-6
+Main, E. K., Goffman, D., Scavone, B. M., Low, L. K., Bingham, D., Fontaine, P. L., … Levy, B. S. (2025). National partnership for maternal safety: Consensus bundle on obstetric hemorrhage. Obstetrics & Gynecology, 126(1), 155–162. https://doi.org/10.1097/AOG.0000000000000869
+Topol, E. (2019). Deep medicine: How artificial intelligence can make healthcare human again. Basic Books.
+Shortliffe, E. H., & Sepúlveda, M. J. (2018). Clinical decision support in the era of artificial intelligence. JAMA, 320(21), 2199–2200. https://doi.org/10.1001/jama.2018.17163
+Lewis, D. D., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., … Kiela, D. (2020). Retrieval-augmented generation for knowledge-intensive NLP tasks. Advances in Neural Information Processing Systems (NeurIPS).
+Zakka, C., Chaurasia, A., Shad, R., & Dalal, A. (2023). Almanac—Retrieval-augmented language models for clinical medicine. Nature Medicine. https://doi.org/10.1038/s41591-023-02470-4
+Johnson, K. B., Wei, W. Q., Weeraratne, D., Frisse, M. E., Misulis, K., Rhee, K., … Snowdon, J. L. (2021). Precision medicine, AI, and the future of personalized health care. Clinical and Translational Science, 14(1), 86–93. https://doi.org/10.1111/cts.12884
+Bates, D. W., & Singh, H. (2018). Two decades since To Err Is Human: An assessment of progress and emerging priorities in patient safety. Health Affairs, 37(11), 1736–1743. https://doi.org/10.1377/hlthaff.2018.0738
+

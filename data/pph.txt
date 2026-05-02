@@ -1,0 +1,386 @@
+Introduction
+Primary postpartum haemorrhage (PPH) is the most common form of major obstetric haemorrhage. The traditional definition of primary PPH is the loss of 500 ml or more of blood from the genital tract within 24 hours of the birth of a baby after vaginal birth and 1000 ml after cesarean birth. PPH can be minor (500–1000 ml) or major (more than 1000 ml). Major can be further subdivided into moderate (1001–2000 ml) and severe (more than 2000 ml). Secondary PPH is defined as abnormal or excessive bleeding from the birth canal between 24 hours and 12 weeks postnatally.
+The Causes of PPH
+The four Ts Tone:
+	•	Abnormalities of uterine contraction.
+	•	Overdistension of uterus Polyhydramnios, multiple gestation, macrosomia.
+	•	Intra-amniotic infection Fever, prolonged rupture of membranes
+	•	Functional/anatomic distortion of uterus Rapid labour, prolonged labour, fibroids, placenta praevia, uterine anomalies
+	•	Uterine relaxants, e.g. magnesium and nifedipine Terbutaline, halogenated anaesthetics, glyceryl trinitrate
+	•	Bladder distension May prevent uterine contraction
+
+
+Tissue:
+	•	retained products of conception
+	•	Retained cotyledon or succenturiate lobe
+	•	Retained blood clots.
+
+
+Trauma:
+	•	genital tract injury
+	•	Lacerations of the cervix, vagina or perineum Precipitous delivery, operative delivery
+	•	Extensions, lacerations at caesarean section Malposition, deep engagement
+	•	Uterine rupture Previous uterine surgery
+	•	Uterine inversion High parity with excessive cord traction
+
+Thrombin:
+	•	Abnormalities of coagulation
+	•	Pre-existing states
+	•	Haemophilia A History of hereditary coagulopathies or liver disease
+	•	Idiopathic thrombocytopenic purpura Bruising
+	•	von Willebrand’s disease
+	•	History of previous PPH
+	•	Acquired in pregnancy
+	•	Gestational thrombocytopenic Bruising
+	•	Pre-eclampsia with thrombocytopenia e.g. HELLP Elevated blood pressure
+	•	Disseminated intravascular coagulation
+
+	•	Gestational hypertensive disorder of pregnancy with adverse conditions Coagulopathy in utero fetal demise.
+	•	Severe infection Fever, neutrophilia/neutropenia
+	•	Abruption Antepartum haemorrhage
+	•	Amniotic fluid embolus Sudden collapse
+	•	Therapeutic anticoagulation History of thromboembolic disease
+
+
+The most common cause of PPH is uterine atony.
+Risk factors for PPH may present antenatally or intrapartum; care plans must be modified and should take into account when counselling pt to deliver in hospital with blood bank
+
+
+Risk factors: The four Ts
+	•	Multiple pregnancy Tone
+	•	Previous PPH Tone
+	•	Pre-eclampsia Thrombin
+	•	Fetal macrosomia Tone
+	•	Failure to progress in second stage Tone
+	•	Prolonged third stage of labour Tone
+ 
+	•	Retained placenta Tissue
+	•	Placenta accrete
+	•	Episiotomy Trauma
+	•	Perineal laceration Trauma
+	•	General anaesthesia Tone
+
+Minimizing Risk:
+	•	Treating antenatal anaemia.
+	•	Anaemia in pregnancy should be investigated and treated as there is association between antenatal anaemia (Hb less than 90 g/l) and greater blood loss at delivery and postpartum
+
+Reducing Blood Loss at Delivery:
+	•	Uterine massage is of no benefit in the prophylaxis of PPH.
+	•	Prophylactic uterotonics should be routinely offered in the management of the third stage of labour in all high risk women as they reduce the risk of PPH.
+	•	(10 iu by intramuscular injection) is the agent of choice for prophylaxis in the third stage of labour.
+	•	For women delivering by caesarean section, oxytocin (5 iu by slow intravenous injection) should be used to encourage contraction of the uterus and to decrease blood loss.
+	•	Ergometrine–oxytocin may be used in the absence of hypertension in women at increased risk of haemorrhage as it reduces the risk of minor PPH (500–1000 ml).
+	•	Clinicians should consider the use of intravenous tranexamic acid (0.5–1.0 g), in addition to oxytocin, at caesarean section to reduce blood loss in women at increased risk of PPH.
+	•	Active management of the third stage of labour involves the use of interventions (including the use of uterotonics, early clamping of the umbilical cord and controlled cord traction) to expedite delivery of the placenta with the aim of reducing blood loss.
+
+How should PPH be managed?
+	•	Clinicians should be aware that the visual estimation of peripartum blood loss is inaccurate and
+	•	that clinical signs and symptoms should be included in the assessment of PPH.
+	•	In pregnancy, pulse and blood pressure are usually maintained in the normal range until blood loss exceeds 1000 ml; tachycardia, tachypnoea and a slight recordable fall in systolic blood pressure occur with blood loss of 1000–1500 ml.
+	•	A systolic blood pressure below 80 mmHg, associated with worsening tachycardia, tachypnoea and altered mental state, usually indicates a PPH in excess of 1500 ml.
+
+Communication and Multidisciplinary Care:
+
+	•	Communication with the patient and her birthing partner is important, and clear information of what is happening should be given from the outset.
+	•	The midwife in charge and the first-line obstetric and anaesthetic staff should be alerted when women present with minor PPH (blood loss 500–1000 ml) without clinical shock.
+	•	A multidisciplinary team involving senior members of staff should be summoned to attend to women with major PPH (blood loss of more than 1000 ml) and ongoing bleeding or clinical shock.
+
+In major PPH, the following members of staff should be called and summoned to attend:
+
+
+	•	An experienced midwife (in addition to the midwife in charge).
+	•	The Obstetric SMO on – call.
+	•	The Anaesthetic on – call.
+	•	The on-call clinical haematologist with experience in major haemorrhage.
+	•	Porters for delivery of specimens/blood.
+	•	Furthermore, the consultant obstetrician and consultant anaesthetist should be alerted, and the blood transfusion laboratory should be informed. One member of the team should be assigned the task of recording events, fluids, drugs, blood and components transfused, and vital signs.
+	•	Consultant obstetrician should attend in person when there is a PPH of more than 1500ml where the haemorrhage is continuing.
+
+Resuscitation:
+Measures for minor PPH (blood loss 500–1000 ml) without clinical shock:
+	•	Intravenous access (one 14-gauge cannula)
+	•	Urgent venepuncture (20 ml) for:
+
+	•	Group and screen.
+	•	Full blood count.
+	•	Coagulation	screen,	including fibrinogen.
+	•	 Pulse, respiratory rate and blood pressure recording every 15 minutes.
+	•	Commence	warmed	crystalloid infusion.
+
+Measures for Major PPH:
+
+Full protocol for major PPH (blood loss greater than 1000 ml) and continuing to bleed or clinical shock:
+	•	A and B – assess airway and breathing.
+	•	C – evaluate circulation.
+	•	Position the patient flat.
+	•	Keep the woman warm using appropriate available measures.
+	•	Transfuse blood as soon as possible, if clinically required.
+	•	Until blood is available, infuse up to 3.5 l of warmed clear fluids, initially 2 l of warmed isotonic crystalloid.
+	•	Further fluid resuscitation can continue with additional isotonic crystalloid or colloid.
+	•	The best equipment available should be used to achieve rapid warmed infusion of fluids.
+
+
+Fluid Therapy and Blood Product Transfusion:
+
+
+	•	Crystalloid Up to 2 l isotonic crystalloid.
+	•	Colloid Up to 1.5 l colloid until blood arrives.
+	•	Blood If immediate transfusion is indicated, give emergency group O, rhesus D (RhD)-negative, K-negative red cell units. Switch to group-specific red cells as soon as feasible.
+	•	Fresh frozen plasma (FFP) Administration of FFP should be guided by haemostatic testing and whether haemorrhage is continuing:
+	•	If prothrombin time (PT) or activated partial thromboplastin time (APTT) are prolonged and haemorrhage is ongoing, administer 12–15 ml/kg of FFP.
+	•	If haemorrhage continues after 4 units of red blood cells (RBCs) and haemostatic tests are unavailable, administer 4 units of FFP.
+	•	Platelet concentrates Administer 1 pool of platelets if haemorrhage is ongoing and platelet count less than 75 x 109/l.
+	•	Cryoprecipitate Administer 2 pools of cryoprecipitate if haemorrhage is ongoing and fibrinogen less than 2 g/l.
+
+
+Main therapeutic goals of the management of massive blood loss as maintaining:
+
+
+	•	Hb greater than 80 g/l.
+	•	Platelet count greater than 50 x 109/l.
+	•	Prothrombin time (PT) less than 1.5 times normal.
+	•	Activated partial thromboplastin time (APTT) less than 1.5 times normal.
+	•	Fibrinogen greater than 2 g/l.
+
+
+Full protocol for monitoring and investigation in major PPH (blood loss greater than 1000 ml) and ongoing haemorrhage or clinical shock:
+
+	•	Immediate venepuncture (20 ml) for:
+	•	Cross-match (4 units minimum).
+	•	Full blood count.
+	•	Coagulation screen, including fibrinogen.
+	•	Renal and liver function for baseline.
+	•	Monitor temperature every 15 minutes.
+	•	Continuous pulse, blood pressure recording and respiratory rate (using oximeter, electrocardiogram and automated blood pressure recording).
+	•	Foley catheter to monitor urine output.
+	•	Two peripheral cannulae, 14 gauge
+	•	Consider arterial line monitoring (once appropriately experienced staff available for insertion)
+	•	Consider transfer to intensive therapy unit once the bleeding is controlled or monitoring at high
+	•	Dependency unit on delivery suite, if appropriate documentation of fluid balance, blood, blood products and procedures.
+
+Clinicians should be prepared to use a combination of pharmacological, mechanical and surgical methods to arrest PPH. These methods should be directed towards the causative fact. When uterine atony is perceived to be a cause of the bleeding, then a sequence of mechanical and pharmacological measures should be instituted in turn until the bleeding stops.
+
+	•	Palpate the uterine fundus and rub it to stimulate contractions (‘rubbing up the fundus’)
+	•	Ensure that the bladder is empty (Foley catheter, leave in place)
+	•	Oxytocin 5 iu by slow intravenous injection (may have repeat dose)
+	•	Ergometrine 0.5 mg by slow intravenous or intramuscular injection (contraindicated in women with hypertension)
+	•	Oxytocin infusion (40 iu in 500 ml isotonic crystalloids at 125 ml/hour) unless fluid restriction is necessary
+	•	Carboprost 0.25 mg by intramuscular injection repeated at intervals of not less than 15 minutes
+	•	To a maximum of eight doses (use with caution in women with asthma)
+	•	Misoprostol 800 micrograms sublingually not available here.
+
+If pharmacological measures fail to control the haemorrhage, surgical interventions should be initiated sooner rather than later.
+
+	•	Intrauterine balloon tamponade is an appropriate first-line ‘surgical’ intervention for most women where uterine atony is the only or main cause of haemorrhage.
+	•	Conservative surgical interventions may be attempted as second line, depending on clinical circumstances and available expertise.
+	•	It is recommended that a laminated diagram of the brace suture technique be kept in theatre.
+	•	Bilateral ligation of uterine arteries.
+	•	Bilateral ligation if internal iliac arteries.
+	•	Interventional radiology (selective arterial embolization) in hemodynamically stable pt.
+	•	Resort to hysterectomy sooner rather than later (especially in cases of placenta accreta or uterine rupture).
+	•	Ideally and when feasible, a second experienced clinician should be involved in the decision for hysterectomy.
+
+How Should Secondary PPH Be Managed?
+
+	•	In women presenting with secondary PPH, an assessment of vaginal microbiology should be performed (high vaginal and endocervical swabs) and appropriate use of antimicrobial therapy should be initiated when endometritis is suspected.
+	•	Combination of ampicillin (clindamycin if allergic to penicillin), metronidazole and gentamicin is appropriate, and that once uncomplicated endometritis has clinically improved with intravenous therapy, there is no additional benefit from further oral therapy.
+	•	Uterotonics for atony can be used.
+	•	A pelvic ultrasound to exclude the presence of retained products of conception (RPOC),
+surgical evacuation of retained placental tissue should be undertaken or supervised by an experienced clinician.
+	•	Colour flow Doppler imaging should be included in the evaluation of the postpartum uterus, although, its use may facilitate the diagnosis of pseudoaneurysms and arteriovenous malformations, which are rare but recognised causes of secondary PPH.
+
+Documentation:
+
+
+Accurate documentation of a delivery with PPH is essential. PPH should be notified through a clinical incident reporting or risk management system.
+
+It is important to record:
+
+
+	•	The staff in attendance and the time they arrived
+	•	The sequence of events
+	•	The administration of different pharmacological agents, their timing and sequence
+	•	The time of surgical intervention, where relevant
+	•	The condition of the mother throughout the different steps
+	•	The timing of the fluid and blood products given.
+
+Debriefing:
+
+After obstetric emergencies, women can be psychologically affected by postnatal depression or fear of further childbirth. Major PPH can be traumatic to women and their families and has been associated with the subsequent development of post-traumatic stress disorder. Women who have experienced a major PPH should be offered an opportunity to discuss the events surrounding their delivery. A discussion of future pregnancy, including the likelihood of a repeat PPH and any fears regarding pregnancy and childbirth that the woman may have should be addressed. This should include arrangements for appropriate investigations as necessary, such as testing for coagulopathies if there are other indicators.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	•	Classification of PPH:
+	•	Primary PPH: occurs in the first 24 hours after delivery (also called early PPH).
+-Secondary PPH: It is vaginal bleeding which occur after the first 24 hours of delivery and up to the end of puerperium.
+	•	Signs and symptoms of primary PPH:
+1-General:
+-Tachycardia-Hypothermia- Pallor-Hypotension- Coldness.
+-Thirsty-Restlessness-Irritability- Exhaustion and Lassitude.
+2-S & S indicated from vaginal Examination:
+“In case of Trauma”
+	•	Cervical birth canal laceration or injury.
+	•	Bleeding will be bright red in color.
+	•	Bleeding will be dark red in retained fragments
+	•	المحتبسة المشيمةRetained placenta is clinically diagnosed when the placenta fails to spontaneously separate during the third stage of labor.
+3-S & S indicated from abdominal Examination
+Uterine Tone and Position: *. A boggy or soft uterus is a common cause of primary postpartum hemorrhage.
+* Position: A displaced uterus could indicate a retained placenta or other abnormalities.
+Tenderness : Palpation of the abdomen may reveal tenderness, which could be a sign of uterine infection (endometritis) or other complications.
+Distension: A distended abdomen could suggest uterine atony, bladder distension, or other underlying causes of bleeding.
+	•	Uterine Size and Shape: * Size: The uterus should gradually decrease in size over time. A large or enlarged uterus could indicate retained placental tissue or blood clots. * Shape: The
+
+uterus should have a normal, pear-shaped appearance. A deformed or irregular shape could suggest underlying pathology.
+	•	* Bowel Sounds: Assessing bowel sounds can help rule out intestinal obstruction or other abdominal complications.
+	•	Remember, the abdominal exam is just one part of the overall assessment for primary postpartum bleeding. Other factors such as vital signs, vaginal bleeding, and lab tests will also be considered.
+	•	Management of PPH
+	•	Prophylactic measures during antenatal period.
+	•	Recognize risk factors.
+	•	Perform routine laboratory investigations to diagnose anemia at an early stage.
+	•	Ensure iron and folic acid supplementation.
+	•	Provide health education.
+	•	Educate the patient regarding the importance of the following:
+	•	Anemia prevention
+	•	Going to the hospital early in labor
+	•	Seeking immediate medical attention if vaginal bleeding occurs
+	•	Prophylactic measures during labor:
+	•	Proper assessment to Identify mothers at risk of developing PPH.
+	•	Careful observation for mother and baby.
+	•	Avoid misuse of oxytocin& assess uterine contraction
+	•	Avoid bearing down in 1st stage.
+	•	Empty bladder every two hours.
+	•	Unhurried in delivery of placenta.
+	•	Examine the placenta and membranes for completeness.
+	•	Prevention of tear by careful episiotomy – support perineum – maintains flexion.
+	•	Order routine laboratory investigations. If the HB level is < 8 gm/dL, cross match at least one unit of whole blood even if the delivery is normal Assessment for amount of bleeding.
+	•	Careful administration of sedatives and analgesic drugs.
+
+	•	Prophylactic administration of oxytocic drugs with delivery of anterior shoulder or at the end of third stage.
+	•	Examine the utero-vaginal canal for trauma and prompt repair if present.
+	•	No forceps or breech delivery before fully dilatation of the cervix.
+**Prophylactic measures during postpartum(fourth stage of labor)
+	•	Effective management of the fourth stage of labor. Monitor vital signs
+Uterine assessment Uterine massage
+Observe characteristic of lochia
+*****Management (Curative measures) :
+Observation of the Mother: 
+	•	Record pulse and BP every 15 minutes.
+	•	Palpate uterus every 15 minutes to ensure that it is well contracted. Uterine massage if it is not contracted.
+	•	Check temperature 4 hourly.
+	•	Examine lochia for amount and consistency.
+	•	Administer IV infusion.
+	•	Intake and output chart.
+	•	Relieve anxiety by explaining her condition and administer prophylactic antibiotics prescribed considering the risk for infection.
+	•	Exploration of uterus under general anesthesia.
+	•	Bimanual compression (Uterus is firmly squeezed between 2 hands).
+	•	Tight intrauterine packing to exert direct homeostatic pressure on the open uterine sinuses and to stimulate uterine contractions.
+	•	If all the above measures fail to achieve homeostasis a hysterectomy is performed.
+	•	In traumatic PPH speculum, examination to find out trauma and homeostasis is achieved by appropriate sutures.
+
+*** Therapeutic management of uterine atony
+	•	Administration of medicine:(Oxytocin agents, Methergine and prostaglandin)
+	•	Promotes contraction of the uterine corpus(massage).
+Surgical methods
+	•	If massage and agents are unsuccessful:
+	•	Ligation of the uterine arteries
+	•	hysterectomy , taking into account the degree of hemorrhage,the overall status of patient, her future childbearing desires Management for lacerations of the genital tract
+	•	Vaginal examination soon after delivery
+	•	Repair:
+	•	Cervical laceration >2cm in length and be actively bleeding
+	•	Laceration of vaginal and perineum
+Retained placenta prevention and treatment
+	•	The placenta should be examined to see that it is complete or there is a part of placenta is missing.
+	•	If not separated, manual removal of placenta is done
+	•	Hysterectomy is required for placenta (increta ,percreta and accreta)
+	•	Uterine contraction drugs
+	•	Curettage may be required
+Thrombin –clotting disorder management
+	•	Anticipate blood work e.g. type and screen, complete blood count hemoglobin, platelet count, Prothrombin time (PT), International Normalized ration (INR), Partial Thromboplastin Time (PTT),and Fibronogen level
+	•	May Rrequire Blood Component Replacement Therapy
+	•	Fresh frozen plasma (FFP)
+	•	Cryoprecipitate
+	•	Platelets
+	•	Packed Red Blood Cells (PRBC)
+	•	Fresh Whole Blood
+Secondary PPH
+
+Secondary PPH: It is vaginal bleeding which occur after the first 24 hours of delivery and up to the end of puerperium.
+Causes of secondary PPH:
+	•	Retained products of conception as:Placental fragments, Accessory lobe, Placental polyp, Retained piece of membranes, Blood clots, Infection. Subinvolution of uterus, Choriocarcianoma, Inversion of Uterus
+	•	Local gynaecological lesions as:
+	•	Cervical erosion and carcinoma in Cervix
+	•	Haemorrhagic blood diseases as:
+	•	Leukemia and Thrombocytopenia.
+**Signs and symptoms of secondary PP H:
+-General: Pallor, lightheadedness دوار, weakness, palpitations, Tachycardia and Low grade fever.
+-Abdominal examination: Subinvolution of uterus.
+-Vaginal examination: Lochia heavier in amount, fresh in color & offensive in odor. If infection occurs retained placenta may present.
+- Nursing interventions for PPH:
+	•	Stay with the woman, call for help, notify primary care physician (PCP).
+	•	Keep woman NPO
+	•	Establish venous access with large bore may need 2 large bore IV lines;
+	•	monitor and record intake and output.
+	•	Administer oxytocin:
+	•	Prepare IV infusion of oxytocin, add 20 units of oxytocin to 1000 mL of Normal Saline
+	•	Infuse at 150–250 mL per hour to control bleeding until further order can be obtained from PCP
+	•	If	fundus	is	not	firm	provide	abdominal	bimanual	uterine massage
+	•	Note effects of massage (firming of fundus) and presence of clots
+
+	•	Perform maternal vital signs every 15 min (BP, P, R) including level of consciousness, fundal height and tone, amount of blood loss until stable as per mothers condition
+	•	Administer oxygen at 8 -10 L/min and monitor oxygen saturation (≥95%) with pulse oximeter
+	•	Empty bladder , may require indwelling catheter and monitor output every 1 h
+	•	Measure and record amount and type of bleeding
+	•	weigh and count pads/linen (usually 1 g of weight = 1 mL of blood loss, however there is evidence that this method may still underestimate blood loss depending on the dryness and consistency of the clots)
+	•	Determine the onset and duration of blood loss
+	•	Assess possible sources of bleeding (4 Ts – Tone, Trauma, Tissue, Thrombin
+	•	Prepare for operating room. Consult PCP to inform of progress, and additional orders or interventions.
+	•	Anticipate blood work e.g. type and screen, complete blood count , hemoglobin, platelet count, Prothrombin time (PT), International Normalized ration (INR), Partial Thromboplastin Time (PTT), Fibronogen level
+	•	Anticipate orders for other medications e.g. hemabate, misoprostol, ergometrine
+	•	Encourage the woman to breastfeed if she is able.
+
+
+
+
+
+
+
+
+A flow chart of the different steps for the management of major PPH:
+Resuscitation, monitoring, investigation and treatment should occur simultaneously.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x

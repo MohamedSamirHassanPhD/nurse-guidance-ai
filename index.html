@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nurse Guidance Assistant | RAG System</title>
+  <link rel="stylesheet" href="style.css?v=4" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    .header-logo { height: 40px; border-radius: 8px; }
+    .logo-container { display: flex; align-items: center; gap: 12px; }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <div class="logo-container">
+      <img src="logo.png" alt="HealthAI Logo" class="header-logo" />
+      <h1 class="logo">Nurse Guidance AI</h1>
+    </div>
+    <div class="header-controls">
+      <button id="settings-btn" title="Settings">⚙️</button>
+      <button id="theme-toggle" aria-label="Toggle dark mode">🌙</button>
+    </div>
+  </header>
+
+  <!-- Settings Modal -->
+  <div id="settings-modal" class="modal hidden">
+    <div class="modal-content">
+      <h3>AI Configuration</h3>
+      <div class="field">
+        <label for="ai-provider">AI Provider</label>
+        <select id="ai-provider">
+          <option value="gemini">Google Gemini (Recommended)</option>
+          <option value="hf">HuggingFace</option>
+        </select>
+      </div>
+      <div class="field" id="gemini-field">
+        <label for="gemini-key">Gemini API Key</label>
+        <input type="password" id="gemini-key" placeholder="Paste your Gemini key here" />
+        <p class="help-text">Get a free key at <a href="https://aistudio.google.com/app/apikey" target="_blank">Google AI Studio</a></p>
+      </div>
+      <div class="field hidden" id="hf-field">
+        <label for="hf-token">HuggingFace Token</label>
+        <input type="password" id="hf-token" placeholder="hf_..." />
+        <p class="help-text">Get a free token at <a href="https://huggingface.co/settings/tokens" target="_blank">huggingface.co</a></p>
+      </div>
+      <div class="modal-actions">
+        <button id="save-settings">Save Config</button>
+        <button id="close-settings">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <main class="main">
+    <section class="hero">
+      <h2>Intelligent Decision Support</h2>
+      <p>Instant guidance on PPH management and ethical protocols.</p>
+    </section>
+
+    <section class="search-section">
+      <div class="input-wrapper">
+        <input type="text" id="search-input" placeholder="e.g. How to diagnose PPH early?" autocomplete="off" />
+        <button id="search-btn">Ask AI</button>
+      </div>
+      <div class="suggestions">
+        <span class="suggestion-chip">What is PPH?</span>
+        <span class="suggestion-chip">Diagnosis of PPH</span>
+        <span class="suggestion-chip">Causes of PPH</span>
+        <span class="suggestion-chip">RAG AI benefits</span>
+      </div>
+    </section>
+
+    <div id="loading" class="loading hidden">
+      <div class="spinner"></div>
+      <p>Consulting clinical guidelines...</p>
+    </div>
+
+    <section id="ai-response-container" class="ai-response-container hidden">
+      <h3>AI Guidance</h3>
+      <div id="ai-answer" class="ai-answer"></div>
+      <div class="sources-toggle">
+        <button id="toggle-sources">View Source Excerpts</button>
+      </div>
+    </section>
+
+    <section id="results" class="results hidden"></section>
+  </main>
+
+  <footer class="footer">
+    <p>© 2026 HealthAI Decision Support. Powered by Retrieval-Augmented Generation.</p>
+  </footer>
+
+  <!-- Search Library -->
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+  <script src="app.js?v=4"></script>
+</body>
+</html>
